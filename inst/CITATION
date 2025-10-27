@@ -1,11 +1,11 @@
 bibentry(
   bibtype  = "Manual",
   header   = "To cite peruflorads43 in publications use:",
-  title    = "peruflorads43: Reviewed Official Classification of Endangered Wild Flora Species in Peru",
+  title    = "peruflorads43: Check Threatened Plant Species Status Against Peru's DS 043-2006-AG",
   author   = "Paul E. Santos Andrade",
-  year     = "2023",
+  year     = "2025",
   url      = "https://github.com/PaulESantos/peruflorads43",
    textVersion = paste(
-"Santos-Andrade P.E. (2023). peruflorads43: Reviewed Official Classification of Endangered Wild Flora Species in Peru. R package version 0.1.1"
+"Santos-Andrade P.E. (2025). peruflorads43: Check Threatened Plant Species Status Against Peru's DS 043-2006-AG"
   )
   )

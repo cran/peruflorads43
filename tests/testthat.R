@@ -9,5 +9,4 @@
 library(testthat)
 library(peruflorads43)
 
-testthat::test_check("peruflorads43")
-
+test_check("peruflorads43")
